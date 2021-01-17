@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1202370C-4AE1-8A10-7E23-21954D1FB10D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Tigris",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule"
+			]
+		}
+	]
+}
